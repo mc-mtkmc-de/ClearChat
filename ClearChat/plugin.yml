@@ -1,0 +1,9 @@
+name: Clearchat
+version: 1.0
+main: de.mcendergames.mc.main.Main
+
+commands:
+
+   cc:
+      description: Leere den Chat!
+      
